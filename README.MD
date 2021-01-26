@@ -1,4 +1,4 @@
-<img align="center" alt="mesiik" width="50" src="assets-library://asset/asset.PNG?id=82F1EB7F-1DAD-4469-A008-27B82DF1EDA8&ext=PNG" />
+<img align="center" alt="mesiik" width="50" src="https://cdn.discordapp.com/attachments/781208182344515596/803615133565845584/image0.png" />
 
 ### 🖐 Hi I'm Mesik
 
