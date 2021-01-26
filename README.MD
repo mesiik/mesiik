@@ -1,3 +1,5 @@
+<img align="center" alt="mesiik" width="50" src="assets-library://asset/asset.PNG?id=82F1EB7F-1DAD-4469-A008-27B82DF1EDA8&ext=PNG" />
+
 ### 🖐 Hi I'm Mesik
 
 ## I'm Hobbyist Python Developer
