@@ -11,7 +11,6 @@
 <br />
 
 
-<iframe src="https://canary.discord.com/widget?id=750122220147310683&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
 ### Languages and Tools I Use:
