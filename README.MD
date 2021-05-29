@@ -1,7 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/840229849515819059/843786011527217172/image3.png">
-
 # 👋**Hi** i'm [__mesik__](https://github.com/mesiik)
-<img src="https://cdn.discordapp.com/attachments/840229849515819059/843786011406368838/image2.png">
 
 - <img src="https://cdn.discordapp.com/emojis/831641224778874941.png?v=1" align="left" width="22px"> I'm currently working on [**Specty**](https://bots4.fun) cool multipurpose bot for [**discord**](https://discord.com)
 
@@ -11,7 +8,7 @@
 
  <img src="https://cdn.discordapp.com/emojis/831641113311576084.png?v=1" width="25px" align="left">You can reach me on discord, [`mesik#0001`](https://discord.com/users/563718132863074324) or join my [`server`](https://discord.com/invite/Zbfvh88dgK)<br>
 
-<img src="https://cdn.discordapp.com/attachments/840229849515819059/843786010978811914/image0.png">
+# My projects
 
  [SPECTY](https://bots4.fun) **Discord Multipurpose bot!** (`private`)<br>
  [SNIPER](https://github.com/mesiik/sniper) Discord bot that snipes deleted messages! (`public`)<br>
@@ -21,7 +18,8 @@ MORE COMING SOON!
 `
 
 <br>
-<img src="https://cdn.discordapp.com/attachments/840229849515819059/843786011191279626/image1.png">
+
+# Facts
 
 - AMD > INTEL.
 - Python and Javascript are both good.
