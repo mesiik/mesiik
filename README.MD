@@ -24,7 +24,7 @@ MORE COMING SOON!
 - AMD > INTEL.
 - Python and Javascript are both good.
 - Do not make polish variables
-- New discord braning sucks
+- New discord branding sucks
 - Light-Theme Text Editors: 🤮
 - Basiclly light-theme: 🤢🤮
 - Ubuntu? Why?
