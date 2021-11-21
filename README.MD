@@ -3,7 +3,7 @@
 ### 🖖 **About me...**
 
 
- Hi i'm **mesik...** I like making useless sh*t with `python`... Or hanging around and wasting time
+ Hi i'm **mesik**, Skyrim fan and average Python enjoyer
  
 
 <a href="https://discord.com/oauth2/authorize?client_id=758384737458323466&permissions=8&scope=bot"><img align="right" src="https://komarev.com/ghpvc/?username=mesiik&color=2f3136">
