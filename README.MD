@@ -10,4 +10,5 @@
 <a href="https://discord.com/oauth2/authorize?client_id=758384737458323466&permissions=8&scope=bot"><img align="right" src="https://komarev.com/ghpvc/?username=mesiik&color=2f3136">
 <!-- 
   
-<img align="right" src="https://discordapp.com/api/guilds/750122220147310683/widget.png?style=banner2" alt="Discord Banner 2"/> -->
+<img align="right" src="https://discordapp.com/api/guilds/750122220147310683/widget.png?style=banner2" alt="Discord Banner 2"/>
+ -->
